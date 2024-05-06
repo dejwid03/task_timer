@@ -1,6 +1,12 @@
-# task_timer
+# Task Timer
 
-A new Flutter project.
+Aplikacja - Task Timer
+
+![Screen_1](https://github.com/dejwid03/task_timer/blob/main/screenshots/Screenshot_1715029949.png)
+![Screen_2](https://github.com/dejwid03/task_timer/blob/main/screenshots/Screenshot_1715029968.png)
+![Screen_3](https://github.com/dejwid03/task_timer/blob/main/screenshots/Screenshot_1715029984.png)
+![Screen_4](https://github.com/dejwid03/task_timer/blob/main/screenshots/Screenshot_1715029989.png)
+![Screen_5](https://github.com/dejwid03/task_timer/blob/main/screenshots/Screenshot_1715029994.png)
 
 ## Getting Started
 
